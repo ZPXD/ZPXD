@@ -1,6 +1,6 @@
-#### Hi there 👋
+#### Cześć 👋
 
-Zajęcia Programowania xD
+### Zajęcia Programowania xD
 
 Python, Linux w każdy poniedziałek i środę o 19:00.
 
